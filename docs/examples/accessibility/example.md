@@ -13,6 +13,6 @@ title: Accessible Markers Example
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 
-	const marker = new Marker([50.4501, 30.5234], {alt: 'Kyiv'}).addTo(map)
-		.bindPopup('Kyiv, Ukraine is the birthplace of Leaflet!');
+	const marker = new Marker([50.4501, 30.5234], {alt: '...'}).addTo(map)
+		.bindPopup('...');
 </script>

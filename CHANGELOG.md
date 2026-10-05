@@ -593,7 +593,6 @@ Check out this polyfill package to help ease the transition for legacy apps:  [L
 * Improve reliability of `Tooltip` by not relying on Browser `touch` checks ([#7535](https://github.com/Leaflet/Leaflet/pull/7535) by [@johnd0e](https://github.com/johnd0e))
 * Make `Browser` mutable for easier automated testing ([#7335](https://github.com/Leaflet/Leaflet/pull/7335) by [@bozdoz](https://github.com/bozdoz))
 * Replace `div` with `span` in `Control.Layers` container to fix an HTML validation error ([#7914](https://github.com/Leaflet/Leaflet/pull/7914) by [@tmiaa](https://github.com/tmiaa))
-* Add a Ukrainian flag to default attribution 🇺🇦 (by [@mourner](https://github.com/mourner) in https://github.com/Leaflet/Leaflet/pull/8109)
 
 ### 🙌 Accessibility
 

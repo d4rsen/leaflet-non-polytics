@@ -29,8 +29,8 @@ or
 [`title`](/reference.html#marker-title):
 
 <pre><code class="javascript">const marker = new Marker([50.4501, 30.5234],
-  {alt: 'Kyiv'}).addTo(map) // "Kyiv" is the <a href="https://www.w3.org/TR/accname-1.1/#dfn-accessible-name"><em>accessible name</em></a> of this marker
-  .bindPopup('Kyiv, Ukraine is the birthplace of Leaflet!');</code></pre>
+  {alt: '...'}).addTo(map) // "..." is the <a href="https://www.w3.org/TR/accname-1.1/#dfn-accessible-name"><em>accessible name</em></a> of this marker
+  .bindPopup('...');</code></pre>
 
 Resulting in markers that are discernible to
 [screen reader](https://en.wikipedia.org/wiki/Screen_reader)
